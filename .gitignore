@@ -1,0 +1,9 @@
+# Virtual environment
+/venv/
+
+# Data and Models
+/data/
+/models/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
