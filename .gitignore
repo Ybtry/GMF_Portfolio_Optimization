@@ -1,5 +1,6 @@
 # Virtual environment
 /venv/
+/tf_env/
 
 # Data and Models
 /data/
